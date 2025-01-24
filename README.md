@@ -1,0 +1,1 @@
+# Static-and-Class-Methods---Exercise-PhotoAlbum
